@@ -1,0 +1,7 @@
+Name	Type	Description
+Task Scheduler		
+Event Viewer		
+Shared Folders		Displays shared folders, current sessions, and open files.
+Local Users and Groups	Extension Snap-in	Manages Local Users and Groups.
+Performance	Performance	Performance
+Device Manager		View and update your device hardware settings and driver software.
